@@ -1,0 +1,4 @@
+	 	Qusnetsoft EXTENDER for HiSoft C expands features of best ZX Spectrum C compiler by HiSoft. This pachage includes two main parts as so
+High resolution Full screen editor and
+Full support for TR-DOS Beta Disk interface.
+EXTENDER software loads with C compiler and stays resident in memory while Compiler environment is active. This software placed in high memory at address 61800 and using 3735 bytes of highest RAM area includes UDG area. This can workink on any Spectrum model better then Spectrum/16. All software was written by myself on HiSoft GENS-4 assembler on IBM 386/SX using Z80 Emulator by G.A.Lunter.

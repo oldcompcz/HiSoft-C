@@ -1,0 +1,12 @@
+; comment
+
+; stack overflow
+;data1:	start 25200+0x1063 end 25200+0x1100 type bytedata
+
+; HiSoft  C  Compiler  V1.3 Copyright 1984,6 HiSoft
+;data2:	start 0x6270+0x48f3 end 0xAB96 type bytedata
+;0xab98
+
+; string
+
+data3:	start 0xBB00 end 0xc66f type bytedata
