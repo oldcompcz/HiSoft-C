@@ -21,7 +21,7 @@ z80asm cc.asm -o cc-tmp.bin ; bin2tap.py -o 25200 cc-tmp.bin cc.tap
 z80dasm -a -t -l -g 25200 -b blocks.txt code.bin > code.asm
 ```
 ### Recompilation
-``
+```
 z80asm code.asm -o code-tmp.bin ; bin2tap.py -o 25200 code-tmp.bin cc.tap
 ```
 
