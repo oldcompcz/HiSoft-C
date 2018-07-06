@@ -8,7 +8,7 @@ Disassembled code of HiSoft C compiler version 1.3 for ZX Spectrum
 
 * Original [HiSoft C manual for ZX Spectrum](/documentation/HiSoftC.pdf) in PDF
 * Original [HiSoft C manual for Amstrad CPC](/documentation/Hisoft_C_(Hisoft)_Manual.pdf) in PDF
-* Article [ZX Magazín - HiSoft C 1.1](/documentation/HiSoftC.pdf) in PDF
+* Article [ZX Magazín - HiSoft C 1.1](/documentation/ZXMagazin review (Czech).pdf) in PDF
 * Article [Historické kompilátory jazyka C na vlastní kůži (2)](http://www.abclinuxu.cz/blog/squeaker/2018/7/historicke-kompilatory-jazyka-c-na-vlastni-kuzi-2)
 
 Please let us know if you know about additional resources.
