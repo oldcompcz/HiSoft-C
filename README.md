@@ -8,7 +8,7 @@ Disassembled code of [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id
 
 [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) is c compiler available for ZX Spectrum and Amstrac CPC. The compiler uses old K&R notation so you can use [ansi2kr](https://github.com/masakioba/ansi2kr) converter for conversion of your ANSI C source code into K&R version. Then you can use [c2tap](/c2tap/c2tap.c) utility for conversion of your source to tap file format.  
 
-An Interesting fact is [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) was written in [BDS C](https://en.wikipedia.org/wiki/BDS_C) of Leor Zolman and then disassembled and optimized manually.  
+An interesting fact is [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) was written in [BDS C](https://en.wikipedia.org/wiki/BDS_C) of Leor Zolman and then disassembled and optimized manually.  
 
 There are various libraries for [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252). For example:
 
