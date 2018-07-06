@@ -6,9 +6,9 @@ Disassembled code of [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id
 
 ## 1. Introduction
 
-[HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) is c compiler available for ZX Spectrum and Amstrac CPC. Compiler uses old K&R notation so you can use [ansi2kr](https://github.com/masakioba/ansi2kr) converter for conversion of your ANSI C source code into K&R version. Then you can use [c2tap](/c2tap/c2tap.c) utility for conversion to tap file format.  
+[HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) is c compiler available for ZX Spectrum and Amstrac CPC. Compiler uses old K&R notation so you can use [ansi2kr](https://github.com/masakioba/ansi2kr) converter for conversion of your ANSI C source code into K&R version. Then you can use [c2tap](/c2tap/c2tap.c) utility for conversion of your source to tap file format.  
 
-[HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) was written in [BDS C](https://en.wikipedia.org/wiki/BDS_C) and then disassembled and optimized manually.  
+Interesting fact is [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) was written in [BDS C](https://en.wikipedia.org/wiki/BDS_C) of Leor Zolman and then disassembled and optimized manually.  
 
 There are various libraries for [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252). For example:
 
@@ -36,7 +36,7 @@ There are various libraries for [HiSoft C](http://www.worldofspectrum.org/infose
 z80asm cc.asm -o cc-tmp.bin ; bin2tap.py -o 25200 cc-tmp.bin cc.tap
 ```
 
-## 4. Original process
+## 4. Original process of disassembling
 
 ### 4.1 Decompilation
 
