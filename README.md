@@ -1,6 +1,6 @@
 # HiSoft-C
 
-Disassembled code of [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) compiler for ZX Spectrum version 1.3 for ZX Spectrum
+Disassembled code of [HiSoft C](http://www.worldofspectrum.org/infoseekid.cgi?id=0008252) compiler version 1.3 for ZX Spectrum
 
 ![pic1.png](pictures/pic1.png)
 
