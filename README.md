@@ -47,3 +47,45 @@ z80dasm -a -t -l -g 25200 -b blocks.txt code.bin > code.asm
 ```
 z80asm code.asm -o code-tmp.bin ; bin2tap.py -o 25200 code-tmp.bin cc.tap
 ```
+
+## 5. HiSoft Editor usage
+
+To start editor press `capshift 1` and `ENTER` (or `EDIT`)
+
+### 5.1 File operations
+
+* `p [m,n,s]`		put into cassette
+* `g [,,s]` 		get from cassette
+
+### 5.2 Compiler
+
+* `c enter`			back to compiler
+* `#include [file name]`	compile program
+* `symbolshift i`		run program
+* `#error`                      to sacrifice error messages and yield more memory 
+
+### 5.3 Basic
+
+* `b enter`			go to basic 
+* `RANDOMIZE USR 25200`         back to compiler
+
+### 5.4 Editor commands
+
+* `i [m,n]`			insert text
+* `l [m,n]`			list
+* `k n`			        set number of lines listed on screen 
+* `w [m,n]`			write text to printer
+* `d [m,n]`			delete lines
+* `m [m,n]`			move line
+* `n [m,n]`			renumber line
+* `e n`			        edit line
+* `v`                           view defaults
+
+### 5.5 Special keys
+
+* `SS F` {
+* `SS G` }
+* `SS I` EOF
+* `SS Q` <=
+* `SS W` <>
+* `SS E` >=
