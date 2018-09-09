@@ -28,7 +28,7 @@ There are various libraries for [HiSoft C](http://www.worldofspectrum.org/infose
 
 * z80asm
 * [skoolkit 6.4](https://pypi.python.org/pypi/skoolkit)
-* ZX spectrum simulator, [ZEsarUX](https://github.com/chernandezba/zesarux) recommended 
+* ZX spectrum emulator, [ZEsarUX](https://github.com/chernandezba/zesarux) recommended 
 
 ### 3.2 Compilation
 
